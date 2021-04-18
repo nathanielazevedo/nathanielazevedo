@@ -1,12 +1,37 @@
 ### Hi there! I'm Nate.
 
+
+These are my two most respectable projects... I built the front front to back end. 
+
+
+Program A Friend
+https://github.com/nathanielazevedo/paf-front-end
+https://github.com/nathanielazevedo/paf-back-end
+
+Feel 
+https://github.com/nathanielazevedo/ifeel
+
+
 - 🔭 I’m currently working on Program A Friend.
 - 🌱 I’m currently learning Docker, AWS, and Vue.
 - 📫 How to reach me: nathanielazevedo@hotmail.com
 - ⚡ Fun fact: I have a dog that is a Schnoodle. Schnauzer Poodle.
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanielazevedo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+I've been coding for a little over a year. So far I've learned...
+HTML
+CSS
+Javascript
+Python
+Flask
+RESTFUL API's
+SQL
+PostgreSQL
+ORM's
+Node
+Express
+JWT's
+React
+Data Structures and Algorithims.
 
 <!--
 **nathanielazevedo/nathanielazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
