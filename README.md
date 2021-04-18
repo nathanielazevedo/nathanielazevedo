@@ -4,11 +4,11 @@
 These are my two most respectable projects... I built them from front to back end. 
 
 
-- Program A Friend
+Program A Friend <br>
 https://github.com/nathanielazevedo/paf-front-end
 https://github.com/nathanielazevedo/paf-back-end
 
-- Feel 
+Feel <br>
 https://github.com/nathanielazevedo/ifeel
 
 
