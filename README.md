@@ -12,26 +12,25 @@ Feel <br>
 https://github.com/nathanielazevedo/ifeel
 
 
-- 🔭 I’m currently working on Program A Friend.
-- 🌱 I’m currently learning Docker, AWS, and Vue.
-- 📫 How to reach me: nathanielazevedo@hotmail.com
-- ⚡ Fun fact: I have a dog that is a Schnoodle. Schnauzer Poodle.
+- I’m currently learning Docker, AWS, and Vue.
+- How to reach me: nathanielazevedo@hotmail.com
+- Fun fact: I have a dog that is a Schnoodle. Schnauzer Poodle.
 
 I've been coding for a little over a year. So far I've learned...
-HTML
-CSS
-Javascript
-Python
-Flask
-RESTFUL API's
-SQL
-PostgreSQL
-ORM's
-Node
-Express
-JWT's
-React
-Data Structures and Algorithims.
+HTML <br>
+CSS <br>
+Javascript <br>
+Python <br>
+Flask <br>
+RESTFUL API's <br>
+SQL <br>
+PostgreSQL <br>
+ORM's <br>
+Node <br>
+Express <br>
+JWT's <br>
+React <br>
+Data Structures and Algorithims <br>
 
 <!--
 **nathanielazevedo/nathanielazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
