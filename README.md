@@ -14,20 +14,20 @@ https://github.com/nathanielazevedo/ifeel
 
 I’m currently learning Docker, AWS, and Vue. <br>
 
-Skills <br>
+Skills: <br>
+React <br>
+Express <br>
+Node <br>
+Python <br>
+Flask <br>
 HTML <br>
 CSS <br>
 Javascript <br>
-Python <br>
-Flask <br>
 RESTFUL API's <br>
 SQL <br>
 PostgreSQL <br>
 ORM's <br>
-Node <br>
-Express <br>
 JWT's <br>
-React <br>
 Data Structures and Algorithims <br>
 
 <!--
