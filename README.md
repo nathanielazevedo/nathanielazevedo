@@ -14,7 +14,7 @@ https://github.com/nathanielazevedo/ifeel
 
 I’m currently learning Docker, AWS, and Vue. <br>
 
-I've been coding for a little over a year. So far I've learned... <br>
+Skills <br>
 HTML <br>
 CSS <br>
 Javascript <br>
