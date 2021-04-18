@@ -1,14 +1,14 @@
 ### Hi there! I'm Nate.
 
 
-These are my two most respectable projects... I built the front front to back end. 
+These are my two most respectable projects... I built them from front to back end. 
 
 
-Program A Friend
+- Program A Friend
 https://github.com/nathanielazevedo/paf-front-end
 https://github.com/nathanielazevedo/paf-back-end
 
-Feel 
+- Feel 
 https://github.com/nathanielazevedo/ifeel
 
 
