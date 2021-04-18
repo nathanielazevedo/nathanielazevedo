@@ -5,16 +5,16 @@ These are my two most respectable projects... I built them from front to back en
 
 
 Program A Friend <br>
-https://github.com/nathanielazevedo/paf-front-end
-https://github.com/nathanielazevedo/paf-back-end
+https://github.com/nathanielazevedo/paf-front-end <br>
+https://github.com/nathanielazevedo/paf-back-end <br>
 
 Feel <br>
 https://github.com/nathanielazevedo/ifeel
 
 
-- I’m currently learning Docker, AWS, and Vue.
-- How to reach me: nathanielazevedo@hotmail.com
-- Fun fact: I have a dog that is a Schnoodle. Schnauzer Poodle.
+I’m currently learning Docker, AWS, and Vue.
+How to reach me: nathanielazevedo@hotmail.com
+Fun fact: I have a dog that is a Schnoodle. Schnauzer Poodle.
 
 I've been coding for a little over a year. So far I've learned...
 HTML <br>
