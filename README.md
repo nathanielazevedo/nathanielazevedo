@@ -12,7 +12,7 @@ Feel <br>
 https://github.com/nathanielazevedo/ifeel
 
 
-I’m currently learning Docker, AWS, and Vue. <br>
+I’m currently becoming as sharp as possible with React / JS <br>
 
 Skills: <br>
 React <br>
