@@ -15,6 +15,8 @@ https://github.com/nathanielazevedo/ifeel
 I’m currently becoming as sharp as possible with React / JS <br>
 
 Skills: <br>
+JavaScript <br>
+TypeScript <br>
 React <br>
 Express <br>
 Node <br>
@@ -22,12 +24,10 @@ Python <br>
 Flask <br>
 HTML <br>
 CSS <br>
-Javascript <br>
 RESTFUL API's <br>
 SQL <br>
 PostgreSQL <br>
 ORM's <br>
-JWT's <br>
 Data Structures and Algorithims <br>
 
 <!--
