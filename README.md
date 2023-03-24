@@ -4,11 +4,11 @@
 This is my most respectable project. I built it from front to back end. 
 
 
-Program A Friend <br>
+Ibanban <br>
 https://github.com/nathanielazevedo/ibanban<br>
 https://github.com/nathanielazevedo/social-client <br>
 
-Feel <br>
+Feel - Keeping this here because it's a Python backend, but don't want to pay for Heroku. Check out the code! <br>
 https://github.com/nathanielazevedo/ifeel
 
 
