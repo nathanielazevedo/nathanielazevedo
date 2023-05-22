@@ -1,18 +1,18 @@
 ### Hi there! I'm Nate.
 
 
-This is my most respectable project. I built it from front to back end. 
+Creator of Chicken Tinder! <br>
+Over 500 decisions have been made with Chicken Tinder <br>
+https://www.thechickentinder.com/ <br>
 
 
-Ibanban <br>
-https://github.com/nathanielazevedo/ibanban<br>
-https://github.com/nathanielazevedo/social-client <br>
-
-Feel - Keeping this here because it's a Python backend, but don't want to pay for Heroku. Check out the code! <br>
-https://github.com/nathanielazevedo/ifeel
+Chicken Tinder Code <br>
+https://github.com/nathanielazevedo/chickentinder<br>
+https://github.com/nathanielazevedo/b_ct <br>
 
 
-I’m currently becoming as sharp as possible with React / JavaScript / TypeScript / Node <br>
+
+I’m currently becoming as sharp as possible with React / JavaScript / TypeScript / Node / Express <br>
 
 <!--
 **nathanielazevedo/nathanielazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
