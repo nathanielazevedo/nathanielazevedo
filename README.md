@@ -1,8 +1,7 @@
 ### Hi there! I'm Nate.
 
 
-Creator of Chicken Tinder! <br>
-Over 500 decisions have been made with Chicken Tinder <br>
+I made this! <br>
 https://www.thechickentinder.com/ <br>
 
 
